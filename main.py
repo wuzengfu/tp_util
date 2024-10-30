@@ -33,15 +33,15 @@ output = dict()
 person_list = []
 total_count = 150
 
-# name - unique name with only alphabets
-# telegram_handle - unique 8-digit number
+# name - unique name with only alphabets and one space
+# telegram_handle - unique telegram handle with at least one alphabet and 4 digits
 # email - unique valid email address
 # student status - a random element in available_student_status
 # roles - some random elements (at least one) in available_student_status
 # nickname - 50% of chance to get a unique name with only one word
 def generate_item() -> PeronSchema:
     name = faker.unique.name().replace('.', '').replace('\'', '')
-    telegram_handle = faker.unique.random_number(8, True)
+    telegram_handle = faker.unique.first_name().lower() + str(faker.random_number(4,True))
     email = faker.unique.email()
     student_status = faker.random_element(available_student_status)
     roles = faker.random_elements(available_roles,
