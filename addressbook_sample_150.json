@@ -1,1946 +1,1590 @@
 {
-  "persons": [
+  "contacts": [
     {
-      "name": "John Kelly",
-      "telegramHandle": "joseph5403",
-      "email": "isingleton@example.com",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "President",
-        "Admin",
-        "Events (internal)",
-        "Marketing",
-        "Vice President",
-        "External Relations",
-        "Events (external)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Traci Payne",
-      "telegramHandle": "andrea3648",
-      "email": "uwright@example.org",
-      "studentStatus": "phd",
-      "roles": [
-        "Events (external)",
-        "Vice President",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Ryan Nguyen",
-      "telegramHandle": "aaron5997",
-      "email": "smithamy@example.org",
+      "name": "Sandra Wagner",
+      "telegramHandle": "amy5278",
+      "email": "gillangela@example.net",
       "studentStatus": "undergraduate 4",
-      "roles": [
-        "External Relations",
-        "President",
-        "Events (internal)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Martin Sanford",
-      "telegramHandle": "nicole3547",
-      "email": "munozanthony@example.com",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "Admin",
-        "Vice President",
-        "Events (internal)",
-        "Events (external)",
-        "Marketing"
-      ],
-      "nickname": "Emily Jones"
-    },
-    {
-      "name": "Melissa Lewis",
-      "telegramHandle": "gary6281",
-      "email": "christopheradams@example.org",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "Vice President",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Anita Martin",
-      "telegramHandle": "victoria5981",
-      "email": "erinthompson@example.org",
-      "studentStatus": "phd",
       "roles": [
         "Vice President",
         "External Relations"
       ],
-      "nickname": "Kari Murphy"
+      "nickname": "Timothy Wolfe"
     },
     {
-      "name": "Cody Ellis",
-      "telegramHandle": "emily6517",
-      "email": "aknight@example.org",
+      "name": "Colin Baker DVM",
+      "telegramHandle": "aaron9379",
+      "email": "tperez@example.org",
       "studentStatus": "undergraduate 6",
-      "roles": [
-        "Events (internal)"
-      ],
-      "nickname": "Linda Jones"
-    },
-    {
-      "name": "Samuel Church",
-      "telegramHandle": "jennifer9993",
-      "email": "jacob27@example.org",
-      "studentStatus": "phd",
       "roles": [
         "Marketing",
-        "Admin",
-        "President",
-        "External Relations",
-        "Vice President",
-        "Events (internal)",
-        "Events (external)"
+        "Admin"
       ],
-      "nickname": "Anthony Cisneros"
+      "nickname": ""
     },
     {
-      "name": "Shelley Smith",
-      "telegramHandle": "roy2165",
-      "email": "jmccormick@example.org",
+      "name": "Robert Burke",
+      "telegramHandle": "dave7589",
+      "email": "hleon@example.com",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Vice President",
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Lori Bradley",
+      "telegramHandle": "cheryl4537",
+      "email": "amandagilbert@example.com",
       "studentStatus": "undergraduate 6",
+      "roles": [
+        "Events (internal)",
+        "Admin"
+      ],
+      "nickname": "Michael Turner"
+    },
+    {
+      "name": "Tina Sosa",
+      "telegramHandle": "carla5100",
+      "email": "markmyers@example.net",
+      "studentStatus": "undergraduate 5",
       "roles": [
         "Admin"
       ],
       "nickname": ""
     },
     {
-      "name": "Patrick Hinton",
-      "telegramHandle": "brittney8834",
-      "email": "christina25@example.org",
+      "name": "Joshua Norton",
+      "telegramHandle": "traci5143",
+      "email": "rachaelnunez@example.net",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Events (internal)",
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Miranda Reed",
+      "telegramHandle": "lisa6836",
+      "email": "erinhernandez@example.org",
+      "studentStatus": "masters",
+      "roles": [
+        "External Relations",
+        "Admin"
+      ],
+      "nickname": "Mercedes Lewis"
+    },
+    {
+      "name": "Kathleen David",
+      "telegramHandle": "jerry6241",
+      "email": "mccoyjeffrey@example.org",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "External Relations",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Craig Mccoy",
+      "telegramHandle": "bailey9130",
+      "email": "tkelly@example.org",
+      "studentStatus": "phd",
+      "roles": [
+        "Marketing",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Andrea Barrera",
+      "telegramHandle": "rebecca5020",
+      "email": "sarah59@example.com",
+      "studentStatus": "phd",
+      "roles": [
+        "Vice President",
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Lori Dorsey",
+      "telegramHandle": "ashley5143",
+      "email": "tadams@example.com",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "External Relations",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Amy Mcgee",
+      "telegramHandle": "kenneth6061",
+      "email": "carlos13@example.com",
+      "studentStatus": "phd",
+      "roles": [
+        "External Relations",
+        "Marketing"
+      ],
+      "nickname": "Nicole Nelson"
+    },
+    {
+      "name": "Robert Thomas",
+      "telegramHandle": "amber1730",
+      "email": "wwilliams@example.net",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Maria Martinez",
+      "telegramHandle": "ellen8958",
+      "email": "gregory35@example.com",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "External Relations",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Amanda Roberts",
+      "telegramHandle": "alexis1845",
+      "email": "murillokristin@example.org",
+      "studentStatus": "phd",
+      "roles": [
+        "Vice President",
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Marissa Mosley",
+      "telegramHandle": "christopher2827",
+      "email": "onealcatherine@example.com",
+      "studentStatus": "masters",
+      "roles": [
+        "Vice President",
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Michael Mills",
+      "telegramHandle": "shannon7403",
+      "email": "posborne@example.com",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Marketing",
+        "Admin"
+      ],
+      "nickname": "Mr. Michael Porter PhD"
+    },
+    {
+      "name": "William Lopez",
+      "telegramHandle": "alan3674",
+      "email": "jennifercoleman@example.org",
+      "studentStatus": "masters",
+      "roles": [
+        "Events (external)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Travis Gregory",
+      "telegramHandle": "lawrence6460",
+      "email": "williamgarrett@example.net",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Events (external)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Stephen Turner",
+      "telegramHandle": "douglas7695",
+      "email": "warnerjonathon@example.com",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Admin",
+        "Marketing"
+      ],
+      "nickname": "Ashley Lewis"
+    },
+    {
+      "name": "Evan Oliver",
+      "telegramHandle": "rose3308",
+      "email": "luis16@example.net",
       "studentStatus": "undergraduate 2",
       "roles": [
-        "Events (external)"
+        "Vice President"
       ],
-      "nickname": "Nicole Kemp"
+      "nickname": "Christopher Johnson"
     },
     {
-      "name": "Lisa Mccarthy",
-      "telegramHandle": "jerry2993",
-      "email": "thomastimothy@example.net",
-      "studentStatus": "undergraduate 1",
+      "name": "Shelby Long",
+      "telegramHandle": "monica8445",
+      "email": "salasstephanie@example.net",
+      "studentStatus": "undergraduate 3",
       "roles": [
-        "President",
-        "Events (internal)",
-        "Admin",
-        "Events (external)",
         "Vice President",
-        "Marketing",
-        "External Relations"
+        "Events (internal)"
       ],
-      "nickname": "Michael Nelson"
+      "nickname": "Sharon Bauer"
     },
     {
-      "name": "Christopher Mckay",
-      "telegramHandle": "kathleen7498",
-      "email": "smithjoshua@example.net",
-      "studentStatus": "undergraduate 4",
+      "name": "Heather Thompson",
+      "telegramHandle": "joseph5552",
+      "email": "justinbeard@example.org",
+      "studentStatus": "undergraduate 3",
       "roles": [
         "Admin"
       ],
-      "nickname": "Kimberly Mejia DVM"
+      "nickname": ""
     },
     {
-      "name": "Tara King",
-      "telegramHandle": "heather9272",
-      "email": "dukeandrew@example.com",
-      "studentStatus": "masters",
+      "name": "Ernest Wilson",
+      "telegramHandle": "kimberly7769",
+      "email": "gwilson@example.net",
+      "studentStatus": "undergraduate 6",
       "roles": [
-        "External Relations"
+        "Vice President",
+        "Marketing"
       ],
       "nickname": ""
     },
     {
-      "name": "Kim Oliver",
-      "telegramHandle": "alexis4009",
-      "email": "harrisondavid@example.net",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Admin",
-        "Events (external)",
-        "President",
-        "Marketing"
-      ],
-      "nickname": "Kara Walter"
-    },
-    {
-      "name": "Antonio Li",
-      "telegramHandle": "kyle6945",
-      "email": "lcollins@example.com",
-      "studentStatus": "masters",
-      "roles": [
-        "Vice President",
-        "Events (internal)",
-        "President",
-        "Admin",
-        "Events (external)"
-      ],
-      "nickname": "Anna Collins"
-    },
-    {
-      "name": "Miguel Norton",
-      "telegramHandle": "justin6478",
-      "email": "karen38@example.com",
+      "name": "Beth Roberts",
+      "telegramHandle": "matthew9382",
+      "email": "melissa55@example.org",
       "studentStatus": "undergraduate 3",
       "roles": [
         "Admin",
-        "Vice President",
-        "President",
         "Marketing"
+      ],
+      "nickname": "Mr. Gabriel Smith"
+    },
+    {
+      "name": "Brittany Knox",
+      "telegramHandle": "steven1247",
+      "email": "philip15@example.com",
+      "studentStatus": "masters",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": "Cindy Allen"
+    },
+    {
+      "name": "Cynthia Black",
+      "telegramHandle": "stephanie5496",
+      "email": "nicholsjesse@example.com",
+      "studentStatus": "masters",
+      "roles": [
+        "Marketing",
+        "Events (internal)"
       ],
       "nickname": ""
     },
     {
-      "name": "Dr Jesus Wells Jr",
-      "telegramHandle": "christy1191",
-      "email": "peter30@example.net",
+      "name": "Erin Hopkins",
+      "telegramHandle": "marissa3808",
+      "email": "waltonallison@example.com",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Kimberly Grimes",
+      "telegramHandle": "becky2815",
+      "email": "maryalexander@example.com",
       "studentStatus": "masters",
       "roles": [
-        "President",
-        "External Relations",
-        "Admin",
         "Events (internal)",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Michelle Sampson",
+      "telegramHandle": "renee5862",
+      "email": "amanda94@example.org",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Amy Reyes",
+      "telegramHandle": "elizabeth2392",
+      "email": "michaeloliver@example.net",
+      "studentStatus": "phd",
+      "roles": [
         "Marketing",
+        "Events (external)"
+      ],
+      "nickname": "Christina Ashley"
+    },
+    {
+      "name": "Benjamin Martinez",
+      "telegramHandle": "paul9591",
+      "email": "hallmichael@example.com",
+      "studentStatus": "undergraduate 3",
+      "roles": [
         "Events (external)",
         "Vice President"
       ],
       "nickname": ""
     },
     {
-      "name": "Aaron Jackson",
-      "telegramHandle": "patty2265",
-      "email": "richardterrell@example.net",
-      "studentStatus": "phd",
+      "name": "Thomas Davis",
+      "telegramHandle": "philip3972",
+      "email": "russellhunter@example.net",
+      "studentStatus": "undergraduate 1",
       "roles": [
-        "Admin",
-        "President",
-        "Events (internal)",
-        "Events (external)",
-        "External Relations"
+        "Events (external)"
       ],
-      "nickname": "Melissa Smith"
+      "nickname": "Megan Poole"
     },
     {
-      "name": "Alex Santiago",
-      "telegramHandle": "daniel4595",
-      "email": "daniellewillis@example.org",
+      "name": "Cheryl Shields",
+      "telegramHandle": "eduardo9108",
+      "email": "farmermary@example.net",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Admin",
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Sara Zuniga",
+      "telegramHandle": "david9965",
+      "email": "ryanjohnson@example.org",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "External Relations",
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Tina Burton",
+      "telegramHandle": "jeffrey1439",
+      "email": "amanda79@example.org",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Peggy Brown",
+      "telegramHandle": "elijah6020",
+      "email": "deborahsullivan@example.net",
+      "studentStatus": "phd",
+      "roles": [
+        "Vice President",
+        "External Relations"
+      ],
+      "nickname": "Kristen Lindsey"
+    },
+    {
+      "name": "Mary Buchanan",
+      "telegramHandle": "casey5151",
+      "email": "michellevalenzuela@example.net",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Events (external)",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Eric Short",
+      "telegramHandle": "allison8746",
+      "email": "cjohnson@example.net",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "External Relations"
+      ],
+      "nickname": "Lisa Brown"
+    },
+    {
+      "name": "Daniel Castillo",
+      "telegramHandle": "jennifer7418",
+      "email": "wrightkevin@example.net",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "External Relations",
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Jessica Williams",
+      "telegramHandle": "brian4052",
+      "email": "jessica92@example.com",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "Events (internal)",
+        "Admin"
+      ],
+      "nickname": "Dr. Jeffrey Burns"
+    },
+    {
+      "name": "Jeremy Bush",
+      "telegramHandle": "victoria2981",
+      "email": "dustin22@example.net",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Michelle Cohen",
+      "telegramHandle": "emily2561",
+      "email": "thompsonkelly@example.org",
+      "studentStatus": "phd",
+      "roles": [
+        "External Relations",
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Alicia Martin",
+      "telegramHandle": "thomas1947",
+      "email": "riveramatthew@example.com",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "External Relations",
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Janice Lozano",
+      "telegramHandle": "jack8199",
+      "email": "barbara13@example.org",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "Admin",
+        "External Relations"
+      ],
+      "nickname": "Nicole Hernandez MD"
+    },
+    {
+      "name": "Shannon Colon",
+      "telegramHandle": "leslie5906",
+      "email": "nstevens@example.com",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "Events (external)",
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Caleb Perez",
+      "telegramHandle": "melanie9726",
+      "email": "angelamonroe@example.com",
+      "studentStatus": "masters",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Jasmine Martin",
+      "telegramHandle": "william4127",
+      "email": "ewelch@example.net",
       "studentStatus": "masters",
       "roles": [
         "Events (external)",
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Darlene Thomas",
+      "telegramHandle": "wendy4038",
+      "email": "menglish@example.org",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "External Relations",
+        "Events (external)"
+      ],
+      "nickname": "Richard Rodriguez"
+    },
+    {
+      "name": "Travis Jacobson",
+      "telegramHandle": "daniel5824",
+      "email": "johnburch@example.org",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": "Karen Buchanan"
+    },
+    {
+      "name": "Jason Pearson",
+      "telegramHandle": "brianna8417",
+      "email": "megan78@example.org",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "External Relations"
+      ],
+      "nickname": "Kristen Mcmahon"
+    },
+    {
+      "name": "Jessica Jones",
+      "telegramHandle": "jasmine2143",
+      "email": "guzmanrobert@example.com",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "Events (internal)",
+        "Events (external)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Michael Kim",
+      "telegramHandle": "dawn3795",
+      "email": "allenjustin@example.com",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "Events (external)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Wendy Clements",
+      "telegramHandle": "erin5994",
+      "email": "theresa31@example.net",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "External Relations",
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Alicia Schroeder",
+      "telegramHandle": "leah4579",
+      "email": "ashleycurtis@example.com",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Derrick Stanley",
+      "telegramHandle": "angela9617",
+      "email": "jbrown@example.net",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "External Relations",
+        "Events (internal)"
+      ],
+      "nickname": "John Stevens"
+    },
+    {
+      "name": "Karen Kelly",
+      "telegramHandle": "andrew9069",
+      "email": "pbutler@example.net",
+      "studentStatus": "masters",
+      "roles": [
+        "Admin",
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Mrs Vickie Flowers",
+      "telegramHandle": "maria8939",
+      "email": "gmorales@example.com",
+      "studentStatus": "masters",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Carolyn Gomez",
+      "telegramHandle": "jesse7731",
+      "email": "ashley76@example.net",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "Events (external)",
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Kimberly Bennett",
+      "telegramHandle": "ryan8741",
+      "email": "briannalong@example.com",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Edward Hudson",
+      "telegramHandle": "diane1339",
+      "email": "patrickriley@example.org",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Vice President",
+        "External Relations"
+      ],
+      "nickname": "Anita Ferguson"
+    },
+    {
+      "name": "Mary White",
+      "telegramHandle": "heather2768",
+      "email": "dmiller@example.org",
+      "studentStatus": "phd",
+      "roles": [
+        "Events (external)",
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Wendy Lin",
+      "telegramHandle": "robert6252",
+      "email": "jennifer34@example.net",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Amy Mason",
+      "telegramHandle": "brandon5446",
+      "email": "ericporter@example.net",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Events (internal)",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Francis White",
+      "telegramHandle": "marc2941",
+      "email": "matthew30@example.org",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Events (internal)",
+        "Events (external)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "April Wiggins",
+      "telegramHandle": "samuel8562",
+      "email": "cassandrasanchez@example.com",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Jennifer Cunningham",
+      "telegramHandle": "sharon8819",
+      "email": "michael68@example.com",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Marc Stewart",
+      "telegramHandle": "patricia4023",
+      "email": "orozcokathleen@example.org",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Vice President",
+        "Marketing"
+      ],
+      "nickname": "Daniel Garner"
+    },
+    {
+      "name": "Tabitha Kim",
+      "telegramHandle": "karen8921",
+      "email": "kmyers@example.com",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Todd Washington PhD",
+      "telegramHandle": "alicia2245",
+      "email": "ronald11@example.com",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Paige Haynes",
+      "telegramHandle": "albert8754",
+      "email": "pparsons@example.com",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "External Relations",
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Dr Mary Morgan MD",
+      "telegramHandle": "kaitlyn9023",
+      "email": "rachel31@example.com",
+      "studentStatus": "undergraduate 2",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Michael Whitehead",
+      "telegramHandle": "alejandro2217",
+      "email": "browndebra@example.com",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": "Jeanette Booker"
+    },
+    {
+      "name": "Victoria Reyes",
+      "telegramHandle": "carolyn9004",
+      "email": "cjohnson@example.org",
+      "studentStatus": "masters",
+      "roles": [
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Debra Austin",
+      "telegramHandle": "raymond7328",
+      "email": "craigduran@example.net",
+      "studentStatus": "phd",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Tracy Sanchez",
+      "telegramHandle": "jonathon1364",
+      "email": "bakernicholas@example.com",
+      "studentStatus": "masters",
+      "roles": [
+        "Events (internal)",
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "John Chandler",
+      "telegramHandle": "caitlin6113",
+      "email": "gutierrezashley@example.org",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Bryan Herring Jr",
+      "telegramHandle": "edward9020",
+      "email": "hboyer@example.com",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Randy Franco",
+      "telegramHandle": "kevin2391",
+      "email": "hannahmyers@example.org",
+      "studentStatus": "masters",
+      "roles": [
+        "External Relations",
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Dale Walker",
+      "telegramHandle": "catherine2666",
+      "email": "hillandrew@example.com",
+      "studentStatus": "undergraduate 2",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Evan Erickson",
+      "telegramHandle": "jeremy6469",
+      "email": "kellertimothy@example.org",
+      "studentStatus": "phd",
+      "roles": [
+        "Events (external)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Zachary Marshall",
+      "telegramHandle": "eddie7480",
+      "email": "christopher93@example.org",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "Marketing",
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Johnny Livingston",
+      "telegramHandle": "amanda1845",
+      "email": "nbeasley@example.com",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Daniel Lozano",
+      "telegramHandle": "katie6685",
+      "email": "qdickerson@example.com",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Marketing",
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Crystal Ray",
+      "telegramHandle": "james2603",
+      "email": "caitlincarpenter@example.net",
+      "studentStatus": "undergraduate 2",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Richard Campbell",
+      "telegramHandle": "laura4414",
+      "email": "jameswillis@example.org",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": "Jonathan Burns"
+    },
+    {
+      "name": "Scott Campbell",
+      "telegramHandle": "jade7954",
+      "email": "christopher81@example.com",
+      "studentStatus": "phd",
+      "roles": [
+        "Vice President",
+        "External Relations"
+      ],
+      "nickname": "Marie Williams"
+    },
+    {
+      "name": "Melanie Chase",
+      "telegramHandle": "benjamin6176",
+      "email": "davischristina@example.com",
+      "studentStatus": "phd",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Joseph Caldwell",
+      "telegramHandle": "donna1519",
+      "email": "mcmahonandrew@example.org",
+      "studentStatus": "masters",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Julia King",
+      "telegramHandle": "javier8967",
+      "email": "stephanie40@example.net",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "Events (external)",
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Nicole Clark",
+      "telegramHandle": "melissa2180",
+      "email": "vbrown@example.net",
+      "studentStatus": "undergraduate 2",
+      "roles": [
+        "Events (external)",
+        "Events (internal)"
+      ],
+      "nickname": "Cassandra Douglas"
+    },
+    {
+      "name": "Timothy Owens",
+      "telegramHandle": "vanessa5511",
+      "email": "qfrancis@example.org",
+      "studentStatus": "masters",
+      "roles": [
+        "External Relations",
+        "Vice President"
+      ],
+      "nickname": "Jonathon Parker"
+    },
+    {
+      "name": "Latoya Goodman",
+      "telegramHandle": "darrell5663",
+      "email": "peckanita@example.org",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "Admin",
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Veronica Brown",
+      "telegramHandle": "eric5632",
+      "email": "vchoi@example.com",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "External Relations"
+      ],
+      "nickname": "Robert Boyd"
+    },
+    {
+      "name": "David Kennedy",
+      "telegramHandle": "nicole7583",
+      "email": "dkim@example.org",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "Events (external)"
+      ],
+      "nickname": "Andrew Hall"
+    },
+    {
+      "name": "Adrienne Gutierrez",
+      "telegramHandle": "julie4107",
+      "email": "dannynielsen@example.com",
+      "studentStatus": "masters",
+      "roles": [
         "External Relations",
         "Admin"
       ],
       "nickname": ""
     },
     {
-      "name": "Michael Frye",
-      "telegramHandle": "elizabeth3174",
-      "email": "czamora@example.net",
+      "name": "Joanna Carroll",
+      "telegramHandle": "charles9023",
+      "email": "carlsonkenneth@example.org",
       "studentStatus": "undergraduate 4",
       "roles": [
-        "Events (internal)",
-        "Events (external)",
-        "Admin",
-        "Marketing"
+        "President"
       ],
-      "nickname": "Evelyn Chapman"
+      "nickname": "Kaitlyn Deleon"
     },
     {
-      "name": "James Chavez",
-      "telegramHandle": "ronald5804",
-      "email": "jimenezshannon@example.com",
+      "name": "Melissa Jenkins",
+      "telegramHandle": "jessica8398",
+      "email": "eric38@example.net",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "Events (external)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Stephanie Hoffman",
+      "telegramHandle": "gary1117",
+      "email": "johnsonkaren@example.org",
+      "studentStatus": "masters",
+      "roles": [
+        "Events (internal)"
+      ],
+      "nickname": "Michelle Miller"
+    },
+    {
+      "name": "Mrs Cindy Jones MD",
+      "telegramHandle": "connie7852",
+      "email": "tjenkins@example.net",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "Vice President",
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Michael Gonzalez",
+      "telegramHandle": "gregory7245",
+      "email": "ramosdawn@example.org",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "External Relations",
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "David Mcgrath",
+      "telegramHandle": "michelle7164",
+      "email": "marquezteresa@example.com",
       "studentStatus": "undergraduate 6",
       "roles": [
-        "Admin",
+        "Marketing",
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Michael Lopez",
+      "telegramHandle": "carl6985",
+      "email": "cynthiahorton@example.com",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "External Relations"
+      ],
+      "nickname": "Joel Cole"
+    },
+    {
+      "name": "Matthew Cannon",
+      "telegramHandle": "madeline8576",
+      "email": "audreyberry@example.net",
+      "studentStatus": "undergraduate 6",
+      "roles": [
         "External Relations",
-        "Events (internal)",
+        "Events (external)"
+      ],
+      "nickname": "Jason Hall"
+    },
+    {
+      "name": "Christopher Berry",
+      "telegramHandle": "edwin3114",
+      "email": "ahopkins@example.com",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Admin",
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Jessica Thomas",
+      "telegramHandle": "mathew5380",
+      "email": "trevinoalexandria@example.com",
+      "studentStatus": "phd",
+      "roles": [
         "Vice President",
-        "President",
+        "External Relations"
+      ],
+      "nickname": "Maria Santos"
+    },
+    {
+      "name": "Nancy Thompson",
+      "telegramHandle": "tracy3045",
+      "email": "brandi55@example.com",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": "Christopher Mclaughlin"
+    },
+    {
+      "name": "Seth Nixon",
+      "telegramHandle": "anthony9114",
+      "email": "littlecory@example.org",
+      "studentStatus": "undergraduate 2",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "John Parks",
+      "telegramHandle": "kayla9323",
+      "email": "uday@example.org",
+      "studentStatus": "undergraduate 6",
+      "roles": [
         "Events (external)",
         "Marketing"
+      ],
+      "nickname": "Joel Neal"
+    },
+    {
+      "name": "Pamela Atkins",
+      "telegramHandle": "ricardo8468",
+      "email": "christopherhawkins@example.org",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": "Ana Guerrero"
+    },
+    {
+      "name": "Danielle Velez",
+      "telegramHandle": "henry1754",
+      "email": "patriciabrooks@example.org",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Vice President",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Amber Young",
+      "telegramHandle": "shirley1870",
+      "email": "donna42@example.org",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Hannah Glover",
+      "telegramHandle": "jodi4347",
+      "email": "glassmary@example.org",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "External Relations",
+        "Events (internal)"
       ],
       "nickname": ""
     },
     {
       "name": "Michael Johnson",
-      "telegramHandle": "sarah4454",
-      "email": "kwilcox@example.org",
-      "studentStatus": "masters",
-      "roles": [
-        "External Relations",
-        "Vice President",
-        "Marketing",
-        "Events (external)",
-        "Events (internal)",
-        "Admin"
-      ],
-      "nickname": "Carl Williams"
-    },
-    {
-      "name": "Erin Schultz",
-      "telegramHandle": "eric4554",
-      "email": "xwalton@example.net",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Marketing",
-        "External Relations",
-        "Events (external)",
-        "Vice President"
-      ],
-      "nickname": "Christina Johnson"
-    },
-    {
-      "name": "Gloria Eaton",
-      "telegramHandle": "walter1750",
-      "email": "robertturner@example.com",
+      "telegramHandle": "joshua4622",
+      "email": "gibsonmichael@example.net",
       "studentStatus": "undergraduate 5",
       "roles": [
-        "Events (external)",
-        "President"
+        "Marketing",
+        "Admin"
+      ],
+      "nickname": "Edward Robinson"
+    },
+    {
+      "name": "Rebecca Williams",
+      "telegramHandle": "peter8984",
+      "email": "frankbowman@example.org",
+      "studentStatus": "undergraduate 1",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": "Amber Hart"
+    },
+    {
+      "name": "Nicholas Beasley PhD",
+      "telegramHandle": "tiffany4680",
+      "email": "danielletaylor@example.net",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "External Relations",
+        "Events (internal)"
       ],
       "nickname": ""
     },
     {
-      "name": "Alexis Garcia",
-      "telegramHandle": "kenneth6296",
-      "email": "urussell@example.com",
+      "name": "Christopher Armstrong",
+      "telegramHandle": "abigail5877",
+      "email": "freemanadam@example.com",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Vice President",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Kathryn Allen",
+      "telegramHandle": "gerald6394",
+      "email": "ubrooks@example.org",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "External Relations",
+        "Vice President"
+      ],
+      "nickname": "Carla Figueroa"
+    },
+    {
+      "name": "Brian Jenkins",
+      "telegramHandle": "austin9743",
+      "email": "romerolinda@example.org",
       "studentStatus": "phd",
       "roles": [
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Nichole Moore",
+      "telegramHandle": "earl9401",
+      "email": "jenniferferguson@example.net",
+      "studentStatus": "masters",
+      "roles": [
+        "External Relations",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Dr Sarah Clark",
+      "telegramHandle": "mark8611",
+      "email": "keithgregory@example.org",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": "Michael Kemp"
+    },
+    {
+      "name": "Joel Brown",
+      "telegramHandle": "michele5882",
+      "email": "kimberly40@example.net",
+      "studentStatus": "phd",
+      "roles": [
+        "Admin"
+      ],
+      "nickname": "Travis Chambers"
+    },
+    {
+      "name": "Benjamin Benson",
+      "telegramHandle": "susan7015",
+      "email": "jacksonmark@example.net",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": "Danielle Thomas"
+    },
+    {
+      "name": "Thomas Brewer",
+      "telegramHandle": "april1247",
+      "email": "austin02@example.org",
+      "studentStatus": "phd",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Theresa Houston",
+      "telegramHandle": "scott7260",
+      "email": "erodriguez@example.org",
+      "studentStatus": "phd",
+      "roles": [
+        "External Relations",
+        "Admin"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "David Crawford",
+      "telegramHandle": "shawn3728",
+      "email": "daniel56@example.org",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "External Relations"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Patty Duncan",
+      "telegramHandle": "micheal2843",
+      "email": "james63@example.com",
+      "studentStatus": "undergraduate 2",
+      "roles": [
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Jordan Smith",
+      "telegramHandle": "juan8177",
+      "email": "jonathan59@example.net",
+      "studentStatus": "phd",
+      "roles": [
+        "Vice President",
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Michael Terrell",
+      "telegramHandle": "janice8181",
+      "email": "tharris@example.com",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "Marketing"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Mark Rush",
+      "telegramHandle": "anna7387",
+      "email": "joshuaoliver@example.com",
+      "studentStatus": "undergraduate 6",
+      "roles": [
+        "Events (external)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Chad Phillips",
+      "telegramHandle": "jason8880",
+      "email": "jessicagraves@example.org",
+      "studentStatus": "undergraduate 3",
+      "roles": [
         "Events (external)",
+        "Events (internal)"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Darren Atkins",
+      "telegramHandle": "jonathan9761",
+      "email": "tcabrera@example.org",
+      "studentStatus": "undergraduate 3",
+      "roles": [
+        "Marketing",
+        "Vice President"
+      ],
+      "nickname": ""
+    },
+    {
+      "name": "Louis Mcknight",
+      "telegramHandle": "justin4566",
+      "email": "rebecca68@example.com",
+      "studentStatus": "undergraduate 5",
+      "roles": [
+        "External Relations",
+        "Admin"
+      ],
+      "nickname": "Joseph Wagner"
+    },
+    {
+      "name": "Evelyn Wheeler MD",
+      "telegramHandle": "richard4190",
+      "email": "bryanhutchinson@example.net",
+      "studentStatus": "undergraduate 4",
+      "roles": [
+        "External Relations",
+        "Events (internal)"
+      ],
+      "nickname": "April Obrien"
+    },
+    {
+      "name": "Dr Betty Johnson",
+      "telegramHandle": "shane3244",
+      "email": "elizabeth96@example.net",
+      "studentStatus": "undergraduate 3",
+      "roles": [
         "Admin",
         "Vice President"
       ],
       "nickname": ""
     },
     {
-      "name": "Sabrina Butler",
-      "telegramHandle": "michael9703",
-      "email": "davisjennifer@example.com",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "Events (external)",
-        "Marketing",
-        "Events (internal)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Christina Thompson",
-      "telegramHandle": "laura2299",
-      "email": "hoffmanjeremy@example.org",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "Admin",
-        "External Relations",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Austin Bell",
-      "telegramHandle": "jill5781",
-      "email": "johnsonanthony@example.com",
+      "name": "Evan Owen",
+      "telegramHandle": "veronica2138",
+      "email": "davidhoward@example.net",
       "studentStatus": "masters",
       "roles": [
-        "President",
-        "Events (external)",
-        "Marketing",
-        "Admin"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Gordon Brown",
-      "telegramHandle": "lauren4664",
-      "email": "keithturner@example.com",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Vice President",
-        "Admin",
-        "President",
-        "Events (internal)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Anthony Moore",
-      "telegramHandle": "bryce8789",
-      "email": "michael27@example.net",
-      "studentStatus": "masters",
-      "roles": [
-        "President"
-      ],
-      "nickname": "Michael Avila"
-    },
-    {
-      "name": "Chelsea Smith",
-      "telegramHandle": "karen1139",
-      "email": "patricklarson@example.com",
-      "studentStatus": "masters",
-      "roles": [
-        "Marketing",
-        "Vice President",
-        "External Relations"
-      ],
-      "nickname": "Melissa Gutierrez"
-    },
-    {
-      "name": "Allen Crawford",
-      "telegramHandle": "stephen4665",
-      "email": "sabrinamartin@example.org",
-      "studentStatus": "phd",
-      "roles": [
-        "External Relations",
-        "Vice President",
-        "President",
-        "Events (external)",
-        "Marketing",
-        "Events (internal)",
-        "Admin"
-      ],
-      "nickname": "Bob Johnson"
-    },
-    {
-      "name": "Darryl Daniels",
-      "telegramHandle": "james5952",
-      "email": "bfrye@example.com",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Admin",
-        "Events (internal)",
-        "Vice President",
         "External Relations",
         "Events (external)"
       ],
-      "nickname": "Lisa Baker"
+      "nickname": ""
     },
     {
-      "name": "Keith Jones",
-      "telegramHandle": "susan6964",
-      "email": "abigailramirez@example.org",
-      "studentStatus": "undergraduate 4",
+      "name": "Tara Sutton",
+      "telegramHandle": "tina7013",
+      "email": "nicholedowns@example.com",
+      "studentStatus": "undergraduate 1",
       "roles": [
-        "Marketing",
-        "President",
-        "Events (external)",
-        "Events (internal)",
-        "External Relations",
-        "Vice President"
+        "Events (external)"
       ],
       "nickname": ""
     },
     {
-      "name": "Shirley Pace",
-      "telegramHandle": "william7127",
-      "email": "dgreene@example.com",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Marketing",
-        "Admin",
-        "Events (internal)",
-        "President",
-        "Events (external)",
-        "Vice President",
-        "External Relations"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Pamela Gutierrez",
-      "telegramHandle": "corey8987",
-      "email": "billydavis@example.com",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "President",
-        "Marketing",
-        "Admin"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Brandi Gross",
-      "telegramHandle": "mark3049",
-      "email": "matthewcarr@example.org",
-      "studentStatus": "masters",
-      "roles": [
-        "Events (external)",
-        "Events (internal)",
-        "Admin",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Lindsay Kelly",
-      "telegramHandle": "whitney9878",
-      "email": "kimberlymitchell@example.org",
+      "name": "Kayla Coleman",
+      "telegramHandle": "samantha1726",
+      "email": "xmiller@example.com",
       "studentStatus": "undergraduate 3",
       "roles": [
-        "Marketing",
-        "External Relations",
-        "Events (external)",
-        "Vice President"
-      ],
-      "nickname": "John Young"
-    },
-    {
-      "name": "Matthew Allen",
-      "telegramHandle": "taylor2440",
-      "email": "hamptonrebecca@example.net",
-      "studentStatus": "undergraduate 1",
-      "roles": [
+        "Admin",
         "Events (internal)"
       ],
       "nickname": ""
     },
     {
-      "name": "Terri Mcmahon",
-      "telegramHandle": "brittany3273",
-      "email": "craig54@example.org",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Marketing",
-        "External Relations",
-        "Vice President",
-        "Events (external)",
-        "Events (internal)"
-      ],
-      "nickname": "Zachary Chambers"
-    },
-    {
-      "name": "Cesar Barker",
-      "telegramHandle": "karl9526",
-      "email": "jason09@example.com",
+      "name": "Victoria Welch",
+      "telegramHandle": "jacqueline4974",
+      "email": "matthew73@example.org",
       "studentStatus": "phd",
       "roles": [
-        "Marketing",
-        "Events (internal)",
-        "Events (external)",
-        "President",
-        "Vice President"
-      ],
-      "nickname": "Loretta Santos"
-    },
-    {
-      "name": "Yolanda Herrera",
-      "telegramHandle": "jason1703",
-      "email": "goldenraymond@example.com",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "Events (external)",
-        "Vice President"
-      ],
-      "nickname": "Tina Harris"
-    },
-    {
-      "name": "Carol Williams",
-      "telegramHandle": "natalie4670",
-      "email": "gregorysmith@example.com",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "Events (internal)",
-        "External Relations",
-        "President",
-        "Vice President",
-        "Marketing"
-      ],
-      "nickname": "Hannah Cantrell"
-    },
-    {
-      "name": "Natalie Clark",
-      "telegramHandle": "shelly3581",
-      "email": "stacy46@example.com",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Admin"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Alejandro Paul",
-      "telegramHandle": "maria3658",
-      "email": "tuckercaroline@example.com",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Events (external)",
-        "President",
-        "Vice President",
-        "Events (internal)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Dr Daniel Rice",
-      "telegramHandle": "donna1058",
-      "email": "rileyaustin@example.org",
-      "studentStatus": "phd",
-      "roles": [
-        "Admin",
-        "Marketing"
-      ],
-      "nickname": "William Williams"
-    },
-    {
-      "name": "Teresa Mcdonald",
-      "telegramHandle": "jared2998",
-      "email": "campbelljoshua@example.org",
-      "studentStatus": "masters",
-      "roles": [
-        "Marketing"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Corey Trevino",
-      "telegramHandle": "felicia5693",
-      "email": "adkinsdavid@example.net",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Admin"
-      ],
-      "nickname": "William Evans"
-    },
-    {
-      "name": "Theodore Ramos",
-      "telegramHandle": "russell2688",
-      "email": "eileen49@example.com",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "Events (external)",
-        "Events (internal)",
-        "Admin",
-        "Vice President",
         "External Relations"
       ],
       "nickname": ""
     },
     {
-      "name": "Timothy Mejia",
-      "telegramHandle": "debbie1924",
-      "email": "robertgonzalez@example.com",
-      "studentStatus": "phd",
-      "roles": [
-        "Vice President",
-        "Admin",
-        "Events (internal)",
-        "President",
-        "External Relations",
-        "Events (external)",
-        "Marketing"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Lisa Randall",
-      "telegramHandle": "kelly3400",
-      "email": "ashley05@example.net",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "Events (external)",
-        "Marketing",
-        "Vice President",
-        "Admin",
-        "President",
-        "External Relations"
-      ],
-      "nickname": "Ashley Shea"
-    },
-    {
-      "name": "Bryan Walker",
-      "telegramHandle": "micheal4485",
-      "email": "hortiz@example.com",
+      "name": "Charles Gordon",
+      "telegramHandle": "danielle5261",
+      "email": "jgutierrez@example.org",
       "studentStatus": "undergraduate 5",
       "roles": [
-        "Vice President"
-      ],
-      "nickname": "David Evans"
-    },
-    {
-      "name": "Brian Davis",
-      "telegramHandle": "vincent8696",
-      "email": "hrogers@example.com",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Events (external)",
+        "External Relations",
         "Events (internal)"
       ],
-      "nickname": "Megan Lewis"
+      "nickname": ""
     },
     {
-      "name": "Misty Murphy",
-      "telegramHandle": "jonathan6939",
-      "email": "ccarr@example.com",
-      "studentStatus": "undergraduate 2",
+      "name": "Stacey Carey",
+      "telegramHandle": "chris6019",
+      "email": "gonzalesjoshua@example.org",
+      "studentStatus": "masters",
       "roles": [
-        "Marketing",
-        "Admin"
-      ],
-      "nickname": "Mitchell Reilly"
-    },
-    {
-      "name": "Chris Gibbs",
-      "telegramHandle": "jamie1028",
-      "email": "david08@example.com",
-      "studentStatus": "phd",
-      "roles": [
-        "Vice President",
-        "Admin",
-        "President",
+        "Events (external)",
         "Marketing"
       ],
-      "nickname": ""
+      "nickname": "Cathy Byrd"
     },
     {
-      "name": "Luis Brown",
-      "telegramHandle": "dennis4282",
-      "email": "wellsnicole@example.net",
-      "studentStatus": "undergraduate 4",
+      "name": "Christopher Jimenez",
+      "telegramHandle": "kelli9304",
+      "email": "awatson@example.com",
+      "studentStatus": "phd",
+      "roles": [
+        "Vice President"
+      ],
+      "nickname": "Rhonda Freeman"
+    },
+    {
+      "name": "Dawn Thomas",
+      "telegramHandle": "michael8958",
+      "email": "sarahortiz@example.com",
+      "studentStatus": "undergraduate 5",
       "roles": [
         "Events (external)",
-        "Vice President",
-        "Marketing",
-        "President",
-        "External Relations",
-        "Events (internal)"
+        "Vice President"
       ],
       "nickname": ""
     },
     {
-      "name": "Natalie Fitzgerald",
-      "telegramHandle": "lori4410",
-      "email": "sarahtaylor@example.com",
-      "studentStatus": "undergraduate 1",
+      "name": "Barbara Murray",
+      "telegramHandle": "nicholas2718",
+      "email": "mason59@example.org",
+      "studentStatus": "undergraduate 5",
       "roles": [
-        "Admin",
-        "External Relations",
-        "President",
-        "Marketing",
-        "Events (external)",
-        "Vice President",
-        "Events (internal)"
-      ],
-      "nickname": "Leslie Lane"
-    },
-    {
-      "name": "Crystal Wood",
-      "telegramHandle": "garrett9391",
-      "email": "corey01@example.net",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "President",
-        "Vice President",
-        "Events (internal)",
-        "Events (external)",
         "Admin",
         "External Relations"
       ],
       "nickname": ""
     },
     {
-      "name": "Crystal Hines",
-      "telegramHandle": "amy6947",
-      "email": "adammorgan@example.net",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Events (external)",
-        "Admin",
-        "Marketing",
-        "President"
-      ],
-      "nickname": "Sandra Stewart"
-    },
-    {
-      "name": "Anthony Schmidt",
-      "telegramHandle": "kimberly5439",
-      "email": "erica32@example.net",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "President",
-        "Vice President",
-        "Events (external)",
-        "Admin"
-      ],
-      "nickname": "Benjamin Mckinney"
-    },
-    {
-      "name": "Jenna White",
-      "telegramHandle": "brianna4825",
-      "email": "lrussell@example.com",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Admin",
-        "Events (external)",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Kaitlyn Wolf",
-      "telegramHandle": "robert2253",
-      "email": "henryhamilton@example.org",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "President",
-        "External Relations",
-        "Marketing"
-      ],
-      "nickname": "Andrew Bailey"
-    },
-    {
-      "name": "Stephanie Mitchell",
-      "telegramHandle": "nancy8883",
-      "email": "brentsimpson@example.com",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Events (external)"
-      ],
-      "nickname": "Erin Hughes"
-    },
-    {
-      "name": "Alexis Ballard",
-      "telegramHandle": "dillon6278",
-      "email": "danielleweaver@example.org",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Events (external)",
-        "External Relations"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Crystal Johnson",
-      "telegramHandle": "donald1538",
-      "email": "kyle14@example.com",
-      "studentStatus": "masters",
-      "roles": [
-        "Events (internal)",
-        "Marketing",
-        "Events (external)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Robin Byrd",
-      "telegramHandle": "tanya2766",
-      "email": "hmarsh@example.org",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Vice President",
-        "Events (external)",
-        "President",
-        "Events (internal)"
-      ],
-      "nickname": "Michael Adkins"
-    },
-    {
-      "name": "Joe Palmer",
-      "telegramHandle": "johnny5302",
-      "email": "mcurry@example.org",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Events (internal)",
-        "Events (external)",
-        "President"
-      ],
-      "nickname": "Evan Smith"
-    },
-    {
-      "name": "Sarah Farrell",
-      "telegramHandle": "christina2329",
-      "email": "martha15@example.com",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Vice President",
-        "Admin",
-        "External Relations",
-        "President",
-        "Marketing",
-        "Events (internal)"
-      ],
-      "nickname": "Mrs. Tara Floyd MD"
-    },
-    {
-      "name": "Wesley Gomez",
-      "telegramHandle": "mary9504",
-      "email": "dawnyoung@example.com",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "Marketing",
-        "External Relations",
-        "Admin",
-        "Vice President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Veronica Cameron",
-      "telegramHandle": "brooke9348",
-      "email": "yerickson@example.net",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Vice President"
-      ],
-      "nickname": "Jared Hoover"
-    },
-    {
-      "name": "Courtney Floyd",
-      "telegramHandle": "amanda6000",
-      "email": "zmartinez@example.com",
-      "studentStatus": "masters",
-      "roles": [
-        "External Relations",
-        "Admin",
-        "Vice President",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Linda Thomas",
-      "telegramHandle": "bryan6780",
-      "email": "opugh@example.org",
+      "name": "Kenneth Guerra",
+      "telegramHandle": "zachary5104",
+      "email": "thomas77@example.com",
       "studentStatus": "undergraduate 4",
       "roles": [
-        "Events (internal)",
-        "Events (external)",
-        "President",
-        "External Relations",
         "Marketing",
         "Vice President"
-      ],
-      "nickname": "Jordan Wong"
-    },
-    {
-      "name": "Angela Foster",
-      "telegramHandle": "linda4757",
-      "email": "rodneyzhang@example.net",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Marketing",
-        "Events (internal)",
-        "Vice President",
-        "External Relations"
       ],
       "nickname": ""
     },
     {
-      "name": "Kimberly Fernandez",
-      "telegramHandle": "paige1724",
-      "email": "dyoung@example.org",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Marketing",
-        "President",
-        "Events (internal)"
-      ],
-      "nickname": "Taylor Smith DDS"
-    },
-    {
-      "name": "Andrew Summers",
-      "telegramHandle": "timothy5967",
-      "email": "brucepearson@example.net",
+      "name": "Erik Adams",
+      "telegramHandle": "andrea3213",
+      "email": "andrea14@example.net",
       "studentStatus": "undergraduate 5",
       "roles": [
-        "Marketing",
-        "President",
-        "External Relations",
-        "Admin",
-        "Events (external)",
-        "Vice President",
         "Events (internal)"
       ],
-      "nickname": "Nathan Butler"
+      "nickname": ""
     },
     {
-      "name": "Mckenzie Collins",
-      "telegramHandle": "jenna7721",
-      "email": "meganpetersen@example.org",
+      "name": "Amy Hancock",
+      "telegramHandle": "sonia1669",
+      "email": "darryl43@example.com",
       "studentStatus": "undergraduate 1",
       "roles": [
-        "President",
-        "Events (external)",
-        "Admin"
-      ],
-      "nickname": "Victor Reyes"
-    },
-    {
-      "name": "Daniel Woods",
-      "telegramHandle": "madison3265",
-      "email": "barneserica@example.org",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Vice President",
-        "Events (external)"
-      ],
-      "nickname": "Philip Sharp"
-    },
-    {
-      "name": "Angela Stephenson",
-      "telegramHandle": "craig2509",
-      "email": "riveramelissa@example.org",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Events (internal)",
         "Marketing",
         "External Relations"
       ],
       "nickname": ""
     },
     {
-      "name": "Brittany Hill",
-      "telegramHandle": "toni3713",
-      "email": "qpatton@example.com",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "Vice President",
-        "Events (external)",
-        "Marketing",
-        "External Relations",
-        "President",
-        "Admin",
-        "Events (internal)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Alicia Gallegos",
-      "telegramHandle": "david1097",
-      "email": "jerry12@example.com",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Events (internal)",
-        "External Relations",
-        "Marketing",
-        "Admin",
-        "President",
-        "Events (external)"
-      ],
-      "nickname": "Kelly Jones"
-    },
-    {
-      "name": "Mr Gregory Guerrero",
-      "telegramHandle": "christopher9640",
-      "email": "cruzalex@example.org",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "Events (external)",
-        "Admin",
-        "External Relations",
-        "President",
-        "Marketing"
-      ],
-      "nickname": "Teresa Mcdaniel"
-    },
-    {
-      "name": "Jason Townsend",
-      "telegramHandle": "jacob7646",
-      "email": "washingtonbrianna@example.net",
-      "studentStatus": "phd",
-      "roles": [
-        "Marketing",
-        "Vice President",
-        "Events (external)",
-        "External Relations",
-        "Admin"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Rebecca Gibson",
-      "telegramHandle": "erika4526",
-      "email": "shood@example.org",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Vice President",
-        "President"
-      ],
-      "nickname": "Robert Bryant"
-    },
-    {
-      "name": "Steven Parrish",
-      "telegramHandle": "angela9284",
-      "email": "edward86@example.net",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Events (external)",
-        "Admin",
-        "Vice President",
-        "Marketing",
-        "External Relations",
-        "Events (internal)"
-      ],
-      "nickname": "Randy Winters"
-    },
-    {
-      "name": "Thomas Evans",
-      "telegramHandle": "christian7447",
-      "email": "walkersabrina@example.com",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Events (external)",
-        "Vice President",
-        "External Relations",
-        "President"
-      ],
-      "nickname": "Preston Ferguson"
-    },
-    {
-      "name": "Melinda Mathis",
-      "telegramHandle": "jessica8019",
-      "email": "zjenkins@example.net",
-      "studentStatus": "masters",
-      "roles": [
-        "Events (external)",
-        "Events (internal)",
-        "External Relations",
-        "President",
-        "Admin",
-        "Marketing"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Nicholas Marsh",
-      "telegramHandle": "lisa9350",
-      "email": "omiller@example.net",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "Admin"
-      ],
-      "nickname": "Robert Barrett"
-    },
-    {
-      "name": "Elizabeth Williams",
-      "telegramHandle": "melissa9140",
-      "email": "charles01@example.com",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "President",
-        "Marketing",
-        "Admin",
-        "External Relations",
-        "Events (external)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Pamela Perry",
-      "telegramHandle": "megan3036",
-      "email": "taylorjennifer@example.com",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Vice President",
-        "Events (external)",
-        "Marketing",
-        "Admin",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Thomas Martinez",
-      "telegramHandle": "isaiah2988",
-      "email": "eringonzalez@example.net",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "External Relations",
-        "Vice President",
-        "Events (internal)",
-        "President",
-        "Marketing",
-        "Events (external)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Michele Marks",
-      "telegramHandle": "angel9150",
-      "email": "yfox@example.org",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Events (external)"
-      ],
-      "nickname": "Crystal Sanders"
-    },
-    {
-      "name": "Mitchell Hood",
-      "telegramHandle": "katelyn4620",
-      "email": "elizabeth05@example.org",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "External Relations",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Pamela Andersen",
-      "telegramHandle": "joshua5931",
-      "email": "johnsonchristopher@example.com",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Events (external)",
-        "Marketing",
-        "President",
-        "External Relations"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Nicholas Orr",
-      "telegramHandle": "thomas9780",
-      "email": "vcampbell@example.com",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Events (external)",
-        "Admin",
-        "External Relations",
-        "Vice President",
-        "Events (internal)",
-        "Marketing",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Julian Foster",
-      "telegramHandle": "zachary6197",
-      "email": "escobaralexis@example.net",
-      "studentStatus": "phd",
-      "roles": [
-        "Admin",
-        "President",
-        "Events (internal)",
-        "External Relations",
-        "Marketing",
-        "Vice President",
-        "Events (external)"
-      ],
-      "nickname": "Matthew Caldwell"
-    },
-    {
-      "name": "Jessica Alvarez",
-      "telegramHandle": "travis4063",
-      "email": "christian17@example.com",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "External Relations",
-        "Admin"
-      ],
-      "nickname": "Raven Turner"
-    },
-    {
-      "name": "Jonathan Williams",
-      "telegramHandle": "brenda8441",
-      "email": "ruthbell@example.net",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "External Relations",
-        "Events (external)",
-        "Events (internal)",
-        "Admin"
-      ],
-      "nickname": "Pamela Figueroa"
-    },
-    {
-      "name": "Jeffrey Bailey",
-      "telegramHandle": "kelsey5344",
-      "email": "anorton@example.com",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "Admin",
-        "Marketing",
-        "Vice President",
-        "Events (internal)",
-        "President",
-        "External Relations",
-        "Events (external)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Susan Taylor",
-      "telegramHandle": "richard9398",
-      "email": "ysmith@example.com",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Marketing"
-      ],
-      "nickname": "Daisy Gonzales"
-    },
-    {
-      "name": "Joseph Taylor",
-      "telegramHandle": "matthew1139",
-      "email": "wangnicholas@example.net",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "President",
-        "Vice President",
-        "Events (external)",
-        "Admin",
-        "Marketing"
-      ],
-      "nickname": "Robin Jennings"
-    },
-    {
-      "name": "Christina Glenn",
-      "telegramHandle": "leroy3665",
-      "email": "jennifer79@example.com",
-      "studentStatus": "masters",
-      "roles": [
-        "Vice President",
-        "Events (external)"
-      ],
-      "nickname": "Kristine Ryan"
-    },
-    {
-      "name": "Kathy Roach",
-      "telegramHandle": "julie6153",
-      "email": "davidtrujillo@example.net",
-      "studentStatus": "phd",
-      "roles": [
-        "Admin",
-        "Marketing",
-        "President",
-        "External Relations"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Christopher Hart MD",
-      "telegramHandle": "mario4811",
-      "email": "alexanderlee@example.net",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Events (internal)",
-        "Events (external)",
-        "Admin",
-        "Vice President",
-        "Marketing",
-        "External Relations",
-        "President"
-      ],
-      "nickname": "Kyle Yang"
-    },
-    {
-      "name": "Courtney Moyer",
-      "telegramHandle": "devin6506",
-      "email": "zrobinson@example.org",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "President",
-        "Marketing",
-        "Admin",
-        "Events (internal)",
-        "Events (external)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Walter Clark",
-      "telegramHandle": "dawn8863",
-      "email": "thomasrivera@example.org",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Events (internal)",
-        "Admin",
-        "Events (external)",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Donna Alvarez",
-      "telegramHandle": "shannon6830",
-      "email": "nancycampbell@example.org",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Events (external)",
-        "Events (internal)",
-        "Vice President",
-        "Admin",
-        "President"
-      ],
-      "nickname": "Diana Ochoa"
-    },
-    {
-      "name": "Isaac Frank",
-      "telegramHandle": "jose7176",
-      "email": "joycemurphy@example.net",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Events (external)",
-        "President",
-        "Events (internal)",
-        "External Relations",
-        "Vice President",
-        "Admin"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Isabella Johnson",
-      "telegramHandle": "cindy9309",
-      "email": "lisafoster@example.org",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Vice President",
-        "Events (external)",
-        "Admin",
-        "Events (internal)",
-        "External Relations",
-        "President",
-        "Marketing"
-      ],
-      "nickname": "Susan Myers"
-    },
-    {
-      "name": "James Nguyen",
-      "telegramHandle": "debra1936",
-      "email": "hilldana@example.net",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Vice President"
-      ],
-      "nickname": "Kenneth Walker"
-    },
-    {
-      "name": "Kevin Potter",
-      "telegramHandle": "renee9512",
-      "email": "uallen@example.net",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Vice President",
-        "President",
-        "Admin",
-        "External Relations",
-        "Events (external)",
-        "Marketing",
-        "Events (internal)"
-      ],
-      "nickname": "Angela Reese"
-    },
-    {
-      "name": "Trevor Ramos Jr",
-      "telegramHandle": "bianca8792",
-      "email": "blairtammy@example.com",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "Marketing",
-        "Events (external)",
-        "President",
-        "Vice President"
-      ],
-      "nickname": "David Fuentes"
-    },
-    {
-      "name": "Tracy Murphy",
-      "telegramHandle": "gregg7727",
-      "email": "michaellewis@example.org",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "President",
-        "Vice President",
-        "Admin"
-      ],
-      "nickname": "Richard Allen"
-    },
-    {
-      "name": "Heidi Howell",
-      "telegramHandle": "patrick5065",
-      "email": "npennington@example.com",
-      "studentStatus": "masters",
-      "roles": [
-        "Events (external)",
-        "Admin",
-        "Events (internal)",
-        "Marketing",
-        "External Relations"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Mr Christopher Reed",
-      "telegramHandle": "andrew6424",
-      "email": "wvaughan@example.org",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "President"
-      ],
-      "nickname": "Peter Rowe"
-    },
-    {
-      "name": "Dr Rose Cooper",
-      "telegramHandle": "janet7033",
-      "email": "shawjenna@example.com",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Vice President",
-        "Admin"
-      ],
-      "nickname": "Cody Frank"
-    },
-    {
-      "name": "Joshua Miller",
-      "telegramHandle": "joan3645",
-      "email": "alishachang@example.org",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Vice President",
-        "Marketing",
-        "Events (internal)",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Brandon Moore",
-      "telegramHandle": "doris5225",
-      "email": "gregoryrobinson@example.net",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "Vice President",
-        "Events (internal)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Morgan Wallace MD",
-      "telegramHandle": "kathryn5666",
-      "email": "chrishiggins@example.net",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "Events (internal)",
-        "President",
-        "Marketing",
-        "Vice President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Debra Barton",
-      "telegramHandle": "brian9130",
-      "email": "uwilson@example.net",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Events (internal)",
-        "Vice President",
-        "Events (external)",
-        "President"
-      ],
-      "nickname": "Abigail Moore"
-    },
-    {
-      "name": "Brian Peterson",
-      "telegramHandle": "katherine3255",
-      "email": "sara68@example.net",
-      "studentStatus": "phd",
-      "roles": [
-        "Admin",
-        "Events (external)",
-        "President"
-      ],
-      "nickname": "Nicole Mccann"
-    },
-    {
-      "name": "Dennis Robinson",
-      "telegramHandle": "michelle2887",
-      "email": "heather37@example.com",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Admin",
-        "President",
-        "Vice President",
-        "External Relations",
-        "Marketing",
-        "Events (internal)",
-        "Events (external)"
-      ],
-      "nickname": "Katelyn Rogers"
-    },
-    {
-      "name": "Robert Montgomery",
-      "telegramHandle": "peter5950",
-      "email": "hancockjulia@example.org",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "Events (internal)",
-        "External Relations",
-        "Vice President",
-        "Admin",
-        "Marketing",
-        "President",
-        "Events (external)"
-      ],
-      "nickname": "Miguel Ramsey"
-    },
-    {
-      "name": "Evan Jones",
-      "telegramHandle": "cynthia1216",
-      "email": "aaron01@example.net",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Marketing",
-        "Vice President",
-        "External Relations",
-        "Events (external)",
-        "Admin",
-        "Events (internal)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "April Wolfe",
-      "telegramHandle": "brandon4101",
-      "email": "everettkaitlin@example.net",
+      "name": "Ian Clayton",
+      "telegramHandle": "rhonda7190",
+      "email": "nortega@example.org",
       "studentStatus": "undergraduate 6",
       "roles": [
         "Admin",
-        "Events (internal)",
-        "Marketing",
-        "Events (external)"
-      ],
-      "nickname": "Wayne Moore"
-    },
-    {
-      "name": "Tyler Duarte",
-      "telegramHandle": "samantha6308",
-      "email": "ggill@example.com",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "External Relations",
-        "Events (external)",
-        "Admin",
-        "President",
-        "Vice President",
-        "Marketing"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Shane Martinez",
-      "telegramHandle": "paul4522",
-      "email": "jason02@example.org",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Vice President",
-        "External Relations",
-        "Marketing"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Adam Glenn",
-      "telegramHandle": "rodney5268",
-      "email": "ryan79@example.net",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "President",
-        "Marketing",
-        "Admin",
-        "Events (external)",
-        "Vice President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Meagan Ingram",
-      "telegramHandle": "hannah2528",
-      "email": "dmason@example.org",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Marketing",
-        "President"
-      ],
-      "nickname": "Justin Ortiz"
-    },
-    {
-      "name": "Stephen Murphy",
-      "telegramHandle": "cole9272",
-      "email": "hcooper@example.org",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Vice President",
-        "President",
-        "Admin"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Nathan Moore",
-      "telegramHandle": "seth6333",
-      "email": "xlewis@example.com",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "Events (external)",
-        "External Relations",
-        "Vice President",
-        "Events (internal)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Corey Huang",
-      "telegramHandle": "bethany2093",
-      "email": "charles50@example.com",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "External Relations",
-        "Events (external)",
-        "Marketing",
-        "Admin",
-        "Vice President"
-      ],
-      "nickname": "Sandra Lee"
-    },
-    {
-      "name": "Dennis Wilson",
-      "telegramHandle": "kurt6815",
-      "email": "nathandaniel@example.net",
-      "studentStatus": "undergraduate 5",
-      "roles": [
-        "Marketing",
         "Events (external)"
       ],
       "nickname": ""
     },
     {
-      "name": "Shelly Short",
-      "telegramHandle": "jeffrey2417",
-      "email": "michael13@example.org",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "Admin",
-        "Events (external)",
-        "Vice President",
-        "Events (internal)",
-        "Marketing",
-        "External Relations",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Ethan Graham MD",
-      "telegramHandle": "gregory5195",
-      "email": "jhartman@example.com",
-      "studentStatus": "masters",
-      "roles": [
-        "Marketing",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Michael Joseph",
-      "telegramHandle": "ashley5024",
-      "email": "nicholascastro@example.net",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "President",
-        "Vice President"
-      ],
-      "nickname": "Louis Peck"
-    },
-    {
-      "name": "Roy Davidson",
-      "telegramHandle": "patricia5209",
-      "email": "joshuafrench@example.com",
-      "studentStatus": "phd",
-      "roles": [
-        "Marketing",
-        "Vice President",
-        "Admin",
-        "Events (internal)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Robin Jackson",
-      "telegramHandle": "amber6606",
-      "email": "francis78@example.org",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Events (external)",
-        "Marketing",
-        "President",
-        "Vice President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Penny Bautista",
-      "telegramHandle": "deborah7105",
-      "email": "xstewart@example.com",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "President",
-        "Events (external)",
-        "External Relations",
-        "Events (internal)",
-        "Vice President",
-        "Marketing",
-        "Admin"
-      ],
-      "nickname": "Brian Harrison"
-    },
-    {
-      "name": "Cassidy Stone",
-      "telegramHandle": "denise7137",
-      "email": "robertpowell@example.net",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "Vice President",
-        "Admin",
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "David Lopez",
-      "telegramHandle": "briana7332",
-      "email": "garzaalicia@example.org",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "Events (internal)"
-      ],
-      "nickname": "Rodney Kennedy"
-    },
-    {
-      "name": "Jennifer Leonard",
-      "telegramHandle": "makayla5729",
-      "email": "hartrobert@example.com",
-      "studentStatus": "undergraduate 1",
-      "roles": [
-        "External Relations",
-        "Admin",
-        "Events (external)",
-        "President",
-        "Marketing",
-        "Events (internal)",
-        "Vice President"
-      ],
-      "nickname": "Cristina James"
-    },
-    {
-      "name": "Victoria Schneider",
-      "telegramHandle": "connor5370",
-      "email": "heididiaz@example.org",
-      "studentStatus": "phd",
-      "roles": [
-        "External Relations",
-        "President",
-        "Events (internal)",
-        "Vice President",
-        "Events (external)",
-        "Marketing"
-      ],
-      "nickname": "Michelle Johnston"
-    },
-    {
-      "name": "Tiffany Villarreal",
-      "telegramHandle": "chloe5173",
-      "email": "cathy08@example.com",
-      "studentStatus": "undergraduate 2",
-      "roles": [
-        "Events (internal)"
-      ],
-      "nickname": "Gregory Chapman"
-    },
-    {
-      "name": "Emily Jimenez",
-      "telegramHandle": "victor8871",
-      "email": "nmartin@example.net",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Felicia Cardenas",
-      "telegramHandle": "rose3145",
-      "email": "wilsonnicholas@example.com",
-      "studentStatus": "undergraduate 6",
-      "roles": [
-        "Events (internal)"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Keith Harris",
-      "telegramHandle": "bradley4243",
-      "email": "margaretreed@example.net",
-      "studentStatus": "undergraduate 3",
-      "roles": [
-        "External Relations",
-        "Vice President",
-        "President",
-        "Admin"
-      ],
-      "nickname": "Mrs. Mary Lewis"
-    },
-    {
-      "name": "Louis Harper",
-      "telegramHandle": "nathan3480",
-      "email": "walkerjohn@example.net",
+      "name": "Jacob Lewis",
+      "telegramHandle": "pamela2235",
+      "email": "vwilliams@example.net",
       "studentStatus": "phd",
       "roles": [
         "Events (internal)",
-        "Vice President",
-        "External Relations",
-        "President",
-        "Admin",
-        "Marketing",
         "Events (external)"
       ],
-      "nickname": "Jennifer Wolfe"
+      "nickname": "Susan Garcia DVM"
     },
     {
-      "name": "Jaclyn Monroe",
-      "telegramHandle": "dustin3734",
-      "email": "larsensherry@example.com",
-      "studentStatus": "undergraduate 2",
+      "name": "Erica Riddle",
+      "telegramHandle": "john5506",
+      "email": "david83@example.net",
+      "studentStatus": "undergraduate 5",
       "roles": [
-        "Events (internal)",
-        "Vice President"
-      ],
-      "nickname": ""
-    },
-    {
-      "name": "Alexander Khan",
-      "telegramHandle": "miguel2032",
-      "email": "josephcole@example.com",
-      "studentStatus": "phd",
-      "roles": [
-        "External Relations",
-        "Vice President",
-        "Events (internal)",
-        "President",
-        "Admin"
-      ],
-      "nickname": "Erin Graham"
-    },
-    {
-      "name": "Andrew Brown",
-      "telegramHandle": "randall4384",
-      "email": "rlevine@example.net",
-      "studentStatus": "undergraduate 4",
-      "roles": [
-        "External Relations",
-        "Events (external)",
-        "Vice President",
-        "President",
         "Marketing",
-        "Admin"
+        "Vice President"
       ],
       "nickname": ""
     }
