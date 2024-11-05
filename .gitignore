@@ -7,6 +7,7 @@ __pycache__/
 
 .idea/
 addressbook.json
+addressbook_command.txt
 
 # Distribution / packaging
 bin/
